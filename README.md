@@ -27,3 +27,9 @@ Welcome to the **Hangman Game**! This is a simple command-line-based implementat
 4. Compile the code using the following command:
    ```bash
    g++ -o hangman hangman.cpp
+
+5. Run the compiled program:
+   ```bash
+   ./hangman
+
+## Rules
