@@ -33,3 +33,14 @@ Welcome to the **Hangman Game**! This is a simple command-line-based implementat
    ./hangman
 
 ## Rules
+- Each player starts with 6 tries.
+- Guess one letter at a time.
+- Each incorrect guess reduces the remaining tries by one.
+- Guesses are case-insensitive (<code>A</code> and <code>a</code> are treated the same).
+- You win if you guess all letters in the word before running out of tries.
+- You lose if your tries reach 0 before guessing the word.
+
+
+## License
+This project is open-source and available for modification and distribution. Contributions are welcome!
+
